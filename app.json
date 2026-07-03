@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Jadwal Kuliah App",
+    "slug": "jadwal-kuliah-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5F6FA"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#F5F6FA" } },
+    "web": { "bundler": "metro" }
+  }
+}
